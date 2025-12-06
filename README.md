@@ -11,5 +11,3 @@ A passionate **backend developer** with strong experience in designing and build
 - ⚡ Fun fact: Every day, over 500 million API calls power modern web ecosystems!  
 
 # 🤟 Hakuna-Matata 🤟
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shivsingh-git&show_icons=true&theme=dark&line_height=35)
