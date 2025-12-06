@@ -1,13 +1,16 @@
-### Hola 👋
-I am Shiv currently persuing B.Tech with CSE from SRM Chennai. Currently working with TEDxChennai as Event-Experince Team member. My area of expertise is Python and currently learning MERN-Stack Development. Passionate Coder.
+### Hey there 👋  
+I’m **Shiv**, currently working as a **Senior Software Engineer at Barclays**.  
 
-- 🔭 I’m currently working on: Bootstrap and JS
-- 🌱 I’m currently learning: MERN Stack Development
-- 🤔 I’m looking for help with: Website Development
-- 💬 Ask me about: Python | JS | CPP | Mathematics
-- 📫 How to reach me: [Gmail](pratapsinghshiv898@gmail.com) [Linkedin](https://www.linkedin.com/in/shivpratapsinghshiv2017/) [Twitter](https://twitter.com/Shivpratap97)
-- ⚡ Fun fact: More than 570 new websites are created every minute.
+A passionate **backend developer** with strong experience in designing and building scalable systems using **Java**, **Python**, and **Spring Boot**. Skilled in **Microservices Architecture**, **RESTful APIs**, and **DevOps tools** like **Docker**, **CI/CD pipelines**, and **GitLab**. I love solving complex engineering problems and optimizing systems for performance and reliability.  
+
+- 🔭 I’m currently working on: Scalable API and Microservice architectures  
+- 🌱 I’m currently exploring: Cloud-native deployments and advanced CI/CD workflows  
+- 🤔 I’m looking for help with: Distributed systems design and system scalability  
+- 💬 Ask me about: Java | Python | Spring Boot | Microservices | Docker | REST APIs  
+- 📫 How to reach me: [Gmail](mailto:pratapsinghshiv898@gmail.com) | [LinkedIn](https://www.linkedin.com/in/shivpratapsinghshiv2017/) | [Twitter](https://twitter.com/Shivpratap97)  
+- ⚡ Fun fact: Every day, over 500 million API calls power modern web ecosystems!  
 
 # 🤟 Hakuna-Matata 🤟
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=shivsingh-git&show_icons=true&line_height=35)
+=
