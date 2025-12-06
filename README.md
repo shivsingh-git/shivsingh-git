@@ -12,5 +12,4 @@ A passionate **backend developer** with strong experience in designing and build
 
 # 🤟 Hakuna-Matata 🤟
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=shivsingh-git&show_icons=true&line_height=35)
-=
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shivsingh-git&show_icons=true&theme=dark&line_height=35)
